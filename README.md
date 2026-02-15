@@ -98,7 +98,7 @@
 
 
 
-#### 🐍 Snake
+#### 👾 Play Games
 <img src="https://raw.githubusercontent.com/muhammadfadhilsuta/muhammadfadhilsuta/output/snake.svg" alt="Snake animation" />
 
 ####
