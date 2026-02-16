@@ -98,20 +98,28 @@
 ####
 
 ---
-#### 🎧 Favorite Song
+## 🎧 Favorite Song
 
-<table>
-<tr>
-<td>
-  <img src="https://i.scdn.co/image/ab67616d0000b273examplecoverid" width="120" />
-</td>
-<td>
-  <b>Ordinary</b><br>
-  <span style="color:gray">Alex Warren</span><br><br>
-  🎶 █ ▓ ▒ ░ ▒ ▓ █
-</td>
-</tr>
-</table>
+<div style="display:flex; align-items:center; background:linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding:20px; border-radius:15px; box-shadow:0 4px 10px rgba(0,0,0,0.5);">
+
+  <!-- Album Cover -->
+  <img src="https://i.scdn.co/image/ab67616d0000b273examplecoverid" alt="Ordinary Cover" width="140" style="border-radius:12px; margin-right:20px; border:2px solid #ffffff;" />
+
+  <!-- Song Info -->
+  <div style="flex:1;">
+    <div style="font-size:22px; font-weight:bold; color:#ffffff;">Ordinary</div>
+    <div style="font-size:16px; color:#d0d0d0;">Alex Warren</div>
+    <div style="margin-top:15px; font-size:22px; letter-spacing:4px;">
+      <span style="color:#ff0000;">█</span>
+      <span style="color:#ff8000;">█</span>
+      <span style="color:#ffd000;">█</span>
+      <span style="color:#80ff00;">█</span>
+      <span style="color:#00ff40;">█</span>
+      <span style="color:#00b000;">█</span>
+    </div>
+  </div>
+
+</div>
 <!-- ================================================= -->
 <!--                     FOOTER                        -->
 <!-- ================================================= -->
