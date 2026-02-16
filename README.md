@@ -4,12 +4,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&fontAlign=50&fontAlignY=50&fontSize=28&fontColor=000000&desc=Fullstack%20Developer%20|%20Software%20Engineer%20Enthusiast%20|%20Tech%20Explorer&descAlign=50&descAlignY=50&descSize=26&descColor=000000&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&fontAlign=50&fontAlignY=50&fontSize=28&fontColor=E0F7FA&desc=Fullstack%20Developer%20|%20Software%20Engineer%20Enthusiast%20|%20Tech%20Explorer&descAlign=50&descAlignY=50&descSize=26&descColor=4FC3F7&animation=fadeIn"/>
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=750&lines=Designing+Scalable+Software+Systems;Building+Production+Ready+Applications;Architecture+Driven+Development;Performance+Optimization;Continuous+Learning+%26+Innovation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=81D4FA&center=true&vCenter=true&width=750&lines=Designing+Scalable+Software+Systems;Building+Production+Ready+Applications;Architecture+Driven+Development;Performance+Optimization;Continuous+Learning+%26+Innovation"/>
 <br>
-
 
 </div>
 
@@ -64,7 +63,7 @@
 ---
 
 #### 💻Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,html,javascript,tailwindcss,python,laravel,mysql,postgresql,docker,androidstudio,figma,css,nodejs,react,angular,sqlite,php,express,nginx,linux,vue,mongodb,git,golang,kubernetes,vscode,github,gitlab,ruby,bootstrap,typescript&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,javascript,tailwindcss,python,laravel,mysql,postgresql,docker,androidstudio,figma,css,nodejs,react,angular,sqlite,php,express,nginx,linux,vue,mongodb,git,golang,kubernetes,vscode,github,gitlab,ruby,bootstrap,flutter,postman,typescript&theme=light&perline=8)](https://skillicons.dev)
 
 ---
 
