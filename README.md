@@ -84,7 +84,6 @@
 </div>
 
 ---
-
 #### 📱 Linus Torvalds (Pencipta Linux)
 > ✧━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━✧  
 > "Bicara itu murah.  
@@ -99,7 +98,20 @@
 ####
 
 ---
+#### 🎧 Favorite Song
 
+<table>
+<tr>
+<td>
+  <img src="https://i.scdn.co/image/ab67616d0000b273examplecoverid" width="120" />
+</td>
+<td>
+  <b>Ordinary</b><br>
+  <span style="color:gray">Alex Warren</span><br><br>
+  🎶 █ ▓ ▒ ░ ▒ ▓ █
+</td>
+</tr>
+</table>
 <!-- ================================================= -->
 <!--                     FOOTER                        -->
 <!-- ================================================= -->
